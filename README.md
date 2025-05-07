@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning ... The Fundamentals
+- 🌱 I’m currently learning ... The Fundamentals of the github flow
   
 - 🤔 I’m looking for help with ... Learning GitHub
 - 💬 Ask me about ... My journey as an amputee
