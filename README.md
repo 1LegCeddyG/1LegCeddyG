@@ -12,5 +12,5 @@
 - 💬 Ask me about ... My journey as an amputee
 - 📫 How to reach me: ... mrcdgriffin89@gmail.com
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I'm an above-the-knee amputee that likes to run 🦿
+- ⚡ Fun fact: ... I'm an above-the-knee amputee that likes to run 🦿 want to race?
 
