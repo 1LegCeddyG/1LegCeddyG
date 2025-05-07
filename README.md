@@ -1,16 +1,16 @@
-## Hi there 👋
+# About me 
 
-<!--
-**1LegCeddyG/1LegCeddyG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**1LegCeddyG/1LegCeddyG** is a ✨ _special_ ✨ repository because its `README.md`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+- 🌱 I’m currently learning ... The Fundamentals
+  
+- 🤔 I’m looking for help with ... Learning GitHub
+- 💬 Ask me about ... My journey as an amputee
+- 📫 How to reach me: ... mrcdgriffin89@gmail.com
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... I'm an above-the-knee amputee that likes to run 🦿
+
