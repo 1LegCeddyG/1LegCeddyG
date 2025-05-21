@@ -1,7 +1,7 @@
 # About me 
 
 
-**1LegCeddyG/1LegCeddyG** is a ✨ _special_ ✨ repository because its `README.md`
+**Cedric-Griffin** is a ✨ _special_ ✨ repository because its `README.md`
 
 
 
